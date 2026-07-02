@@ -1,0 +1,31 @@
+{
+  "react": {
+    "summary": "React is an open-source JavaScript library used to build fast and interactive user interfaces.",
+    "difficulty": "Beginner",
+    "time": "3-4 Weeks"
+  },
+
+  "java": {
+    "summary": "Java is a powerful object-oriented programming language used for web, mobile and enterprise applications.",
+    "difficulty": "Beginner",
+    "time": "6-8 Weeks"
+  },
+
+  "python": {
+    "summary": "Python is an easy-to-learn programming language widely used in AI, Machine Learning, Data Science and Web Development.",
+    "difficulty": "Beginner",
+    "time": "4-6 Weeks"
+  },
+
+  "nodejs": {
+    "summary": "Node.js allows JavaScript to run on the server for building scalable backend applications.",
+    "difficulty": "Intermediate",
+    "time": "3 Weeks"
+  },
+
+  "docker": {
+    "summary": "Docker is a containerization platform used to package and deploy applications consistently.",
+    "difficulty": "Intermediate",
+    "time": "2 Weeks"
+  }
+}
