@@ -21,8 +21,8 @@ export default function Results() {
         setError("");
 
         const response = await API.get(
-          `/search?q=${encodeURIComponent(query)}&level=${level}`
-        );
+  `/api/search?q=${encodeURIComponent(query)}&level=${level}`
+);
 
         setData(response.data);
       } catch (err) {
